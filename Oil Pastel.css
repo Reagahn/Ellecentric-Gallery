@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.banner{
+	width: 100%;
+	height: 100vh;
+	background-image: linear-gradient(rgba(0,0,0,0.15),rgba(0,0,0,0.75)),url(i03_red.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.logo {
+  display: block;
+  width: 200px; 
+  height: 50px;
+  margin: 10px; 
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}

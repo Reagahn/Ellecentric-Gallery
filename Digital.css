@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Times New Roman', Times, serif;
+}
+.banner{
+	width: 100%;
+	height: 100vh;
+	background-image: linear-gradient(rgba(0,0,0,0.15),rgba(0,0,0,0.75)),url(i02_green.jpg);
+	background-size: cover;
+	background-position: center;
+
+}
+.logo {
+  display: block;
+  width: 200px; 
+  height: 50px;
+  top: 10px;
+  left: 10px;
+  margin-top: 0%;
+  margin-left: 0%;
+}
